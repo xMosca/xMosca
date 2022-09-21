@@ -5,7 +5,7 @@
 
          user@root
         -----------
-        OS: Kali GNU/LINUX Rolli
+        OS: Kali GNU/LINUX Rolling
         WM: BSPWM
         Shell: zsh
         Terminal: Kitty
